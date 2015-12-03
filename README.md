@@ -2,15 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+  <title>Page Title</title>
 </head>
-<body>
+  <body>
 
-<h1>My First Heading # -hello-World-</h1>
-<p>My first repository on GitHub.</p>
+  <h1>My First Heading # -hello-World-</h1>
+  <p>My first repository on GitHub.</p>
 
-</body>
+  </body>
 </html>
-
-
 
